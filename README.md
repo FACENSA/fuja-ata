@@ -1,6 +1,7 @@
 # Padrão para criar documentos de ATA:
 
-`ATA Reunião Encontro FUJA(FACENSA Usuários Java)
+```
+ATA Reunião Encontro FUJA(FACENSA Usuários Java)
 O que?
 	
 	<DESCRIÇÃO DO EVENTO>
@@ -16,4 +17,5 @@ Onde?
 
 Quem?
 	
-	<PARTICIPANTES>`
+	<PARTICIPANTES>
+```
