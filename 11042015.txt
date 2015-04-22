@@ -1,0 +1,27 @@
+ATA Reunião Encontro FUJA(FACENSA Usuários Java)
+O que?
+	
+	Depois de mais de 8 anos em inatividade o grupo de usuários Java da Faculdade FACENSA voltou a realizar encontros mensais em 2015. Foi no último dia 11/4, onde alunos e professores do curso técnico de informática se reuniram e formalizaram o I encontro do grupo FACENSA Usuários Java(FUJA) de 2015.
+	O encontro foi marcado por uma pequena exposição que introduziu algus conceitos como coding DOJO, Kata e também algumas técnicas e práticas aplicadas nas metodologias ageis, como Pair Programming, testes etc.
+
+	Para fechar o encontro, o grupo realizou um coding dojo resolvendo um problema simples de média aritmética para calcular a média final de um aluno. No final o projeto foi colocado no GitHub(https://github.com/FACENSA/calculo-media-notas)
+
+	Ao final o grupo acordou em realizar encontros mensais, onde o próximo encontro ficou pré-agendado para a noite do dia 13/5 às 19:30.
+
+Quando?
+	
+	11/08/2015
+
+Onde? 
+	
+	Faculdade Nossa Senhora dos Anjos - FACENSA
+	Laboratório IV
+
+Quem?
+	
+	Guilherme Elias
+	Clarkson
+	Pamela
+	Alessandra
+	Dagoberto
+	Quelen
